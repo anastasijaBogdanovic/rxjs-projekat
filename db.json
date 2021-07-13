@@ -1,0 +1,250 @@
+{
+    "smoothies": [
+        {
+            "id": 1,
+            "name": "Triple",
+            "ingredients":[ "banana", "jagoda", "kupina", "mailna"  ],
+            "price": 210
+        },
+
+        {
+            "id": 2,
+            "name": "Piña Colada",
+            "ingredients":[ "banana", "mango", "ananas" ],
+            "price": 270
+        },
+
+        {
+            "id": 3,
+            "name": "Superfruit",
+            "ingredients":[ "visnja", "kivi", "tresnja" ],
+            "price": 230
+        },
+
+        {
+            "id": 4,
+            "name": "Razzle Dazzle",
+            "ingredients":[ "ananas", "mango", "banana", "jabuka", "mailna" ],
+            "price": 290
+        },
+
+        {
+            "id": 5,
+            "name": "Pineapple Banana",
+            "ingredients":[ "ananas", "banana", "kokos" ],
+            "price": 220
+        },
+
+        {
+            "id": 6,
+            "name": "Sunshine Daydream",
+            "ingredients":[ "jagoda", "breskva", "kajsija", "kokos"],
+            "price": 250
+        },
+
+        {
+            "id": 7,
+            "name": "PB&J Smoothie",
+            "ingredients":[ "jabuka", "banana", "kurska" ],
+            "price": 200
+        },
+
+        {
+            "id": 8,
+            "name": "Hangover",
+            "ingredients":[ "avokado", "limun", "jabuka", "kokos", "djumbir" ],
+            "price": 310
+        },
+
+        {
+            "id": 9,
+            "name": "Blueberry Muffin",
+            "ingredients":[ "borovnica", "banana", "limun" ],
+            "price": 200
+        },
+
+        {
+            "id": 10,
+            "name": "Sour",
+            "ingredients":[ "nar", "narandza", "limun", "kivi" ],
+            "price": 230
+        },
+
+        {
+            "id": 11,
+            "name": "Coffee",
+            "ingredients":[ "banana", "kokos", "kafa" ],
+            "price": 250
+        },
+
+        {   
+            "id": 12,
+            "name": "Blueberry Avocado Smoothie",
+            "ingredients":[ "borovnica", "avokado", "vanila" ],
+            "price": 270
+        },
+
+        {
+            "id": 13,
+            "name": "SS",
+            "ingredients":[ "jabuka", "tresnja", "mango" ],
+            "price": 210
+        },
+
+        {
+            "id": 14,
+            "name": "Plum",
+            "ingredients":[ "borovnica", "sljiva", "breskva" ],
+            "price": 200
+        },
+
+        {
+            "id": 15,
+            "name": "Refresh",
+            "ingredients":[ "nar", "avokado", "kajsija", "limun", "ananas" ],
+            "price": 270
+        }
+    ],
+
+    "fruits": [
+        {
+            "id": 1,
+            "name": "banana",
+            "price": 49
+        },
+
+        {
+            "id": 2,
+            "name": "jagoda",
+            "price": 60
+        },
+
+        {
+            "id": 3,
+            "name": "jabuka",
+            "price": 30
+        },
+
+        {
+            "id": 4,
+            "name": "kivi",
+            "price": 27
+        },
+
+        {
+            "id": 5,
+            "name": "limun",
+            "price": 42
+        },
+
+        {
+            "id": 6,
+            "name": "narandza",
+            "price": 45
+        },
+
+        {
+            "id": 7,
+            "name": "tresnja",
+            "price": 30
+        },
+
+        {
+            "id": 8,
+            "name": "mailna",
+            "price": 19
+        },
+
+        {
+            "id": 9,
+            "name": "nar",
+            "price": 60
+        },
+
+        {
+            "id": 10,
+            "name": "kajsnija",
+            "price": 50
+        },
+
+        {
+            "id": 11,
+            "name": "breskva",
+            "price": 50
+        },
+
+        {
+            "id": 12,
+            "name": "sljiva",
+            "price": 37
+        },
+
+        {
+            "id": 13,
+            "name": "avokado",
+            "price": 80
+        },
+
+        {
+            "id": 14,
+            "name": "ananas",
+            "price": 70
+        },
+
+        {
+            "id": 15,
+            "name": "kruska",
+            "price": 34
+        },
+
+        {
+            "id": 16,
+            "name": "kokos",
+            "price": 40
+        },
+
+        {
+            "id": 17,
+            "name": "kupina",
+            "price": 17
+        },
+
+        {
+            "id": 18,
+            "name": "mango",
+            "price": 74
+        },
+
+        {
+            "id": 19,
+            "name": "visnja",
+            "price": 43
+        },
+
+        {
+            "id": 20,
+            "name": "borovnica",
+            "price": 30
+        }
+    ],
+
+    "topings": [
+        {
+            "id": 1,
+            "name": "slag",
+            "price": 40
+        },
+
+        {
+            "id": 2,
+            "name": "cokolada",
+            "price": 60
+        },
+
+        {
+            "id": 3,
+            "name": "sirup",
+            "price": 30
+        }
+    ]
+}
